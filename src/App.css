@@ -102,3 +102,20 @@ body {
 .btn-reset:hover {
   background: #4b5563;
 }
+.info-box {
+  background: #fdf2f8;
+  border: 2px solid #ec4899;
+  border-radius: 12px;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+.info-box p {
+  margin: 8px 0;
+  font-size: 18px;
+}
+
+.total-price {
+  font-weight: bold;
+  color: #be185d;
+}
